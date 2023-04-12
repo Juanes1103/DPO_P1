@@ -1,4 +1,4 @@
-# DPO_P1
+# DPO_ProyectoHotel
 
 Juan Esteban Diaz C. - 202121646 
 
